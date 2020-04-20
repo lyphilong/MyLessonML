@@ -9,10 +9,10 @@
         </ul>
         </td>
         <td>
-            <a href="https://github.com/madewithml/lessons/tree/master/notebooks/02_Basics/01_Linear_Regression">Linear Regression</a>
+            <a href="">Linear Regression</a>
         </td>
         <td>
-            <a href="https://github.com/madewithml/lessons/blob/master/notebooks/02_Basics/02_Logistic_Regression">Logistic Regression</a>
+            <a href="">Logistic Regression</a>
         </td>
         <td>
             <a href="">️Multilayer Perceptrons</a>
