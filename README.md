@@ -42,3 +42,47 @@
     </tr>
     </tbody>
 </table>
+
+<table class="table table-striped table-bordered table-vcenter">
+    <tbody class=ai-notebooks-table-content>
+    <tr>
+        <td colspan="1" rowspan="4" class="ai-notebooks-table-points ai-orange-link">
+        <ul>
+            <li>Thuật toán Artificial Intelligence</li>
+        </ul>
+        </td>
+        <td>
+            <a>Search</a>
+        </td>
+        <td>
+            <a>Knowledge</a>
+        </td>
+        <td>
+            <a>️Optimization</a>
+      </td>
+    </tr>
+    <tr>
+    <td>
+        <a>Learning</a>
+    </td>
+    <td>
+        <a>Uncertainty</a>
+    </td>
+    <td>
+        <a>️</a>
+    </td>
+    </tr>
+    <tr>
+        <td>
+            <a>️</a>
+        </td>
+        <td>
+            <a></a>
+        </td>
+        <td>
+            <a></a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
