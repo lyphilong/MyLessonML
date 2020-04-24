@@ -5,39 +5,39 @@
     <tr>
         <td colspan="1" rowspan="4" class="ai-notebooks-table-points ai-orange-link">
         <ul>
-            <li>Lập trình các mô hình ML bằng Pytorch.</li>
+            <li>Thuật toán Machine Learning</li>
         </ul>
         </td>
         <td>
-            <a href="">Linear Regression</a>
+            <a>Linear Regression</a>
         </td>
         <td>
-            <a href="">Logistic Regression</a>
+            <a>Logistic Regression</a>
         </td>
         <td>
-            <a href="">️Multilayer Perceptrons</a>
+            <a>️Multilayer Perceptrons</a>
       </td>
     </tr>
     <tr>
     <td>
-        <a href="/">Navie Bayes</a>
+        <a>Navie Bayes</a>
     </td>
     <td>
-        <a href="/">Cluster</a>
+        <a>Cluster</a>
     </td>
     <td>
-        <a href="/">️Dession Tree</a>
+        <a>️Dession Tree</a>
     </td>
     </tr>
     <tr>
         <td>
-            <a href="/">️Support Vector Machine</a>
+            <a href="https://colab.research.google.com/drive/139k5qacPQtpDDP0Rbw18dbGPvbXwr1lE">️Support Vector Machine</a>
         </td>
         <td>
-            <a href="/">Convolutional Neural Networks</a>
+            <a>Convolutional Neural Networks</a>
         </td>
         <td>
-            <a href="/">Recurrent Neural Networks</a>
+            <a>Recurrent Neural Networks</a>
         </td>
     </tr>
     </tbody>
