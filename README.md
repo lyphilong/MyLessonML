@@ -10,7 +10,7 @@
         </ul>
         </td>
         <td>
-            <a>Linear Regression</a>
+            <a href="https://colab.research.google.com/drive/11EQmUFxIrJpLbAjr1o65qG8Ov7I5OOsl">Linear Regression</a>
         </td>
         <td>
             <a>Logistic Regression</a>
